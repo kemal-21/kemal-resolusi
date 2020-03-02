@@ -1,0 +1,4 @@
+KEMAL RESOLUSI
+- Belajar Code Igniter
+- Belajar Laravel
+- Membuat web toko
